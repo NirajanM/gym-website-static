@@ -120,3 +120,9 @@
     background-color: #0ACDFF;
     color: white;
 }
+.style-this-list{
+    text-align: center;
+    font-size: 1.5vw;
+    font-weight: 700;
+    line-height: 1rem;
+}
