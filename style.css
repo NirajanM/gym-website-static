@@ -143,8 +143,10 @@ a{
 
 @media screen and (max-width: 379px) {
     #logo{
-        top: 4rem;
+        top: 0;
         width: 100vh;
+        font-weight: bold;
         text-align: center;
+        font-size: 1rem;
     }
   }
